@@ -1,3 +1,1 @@
-function myFunction(){
-    return "onondaga";
-}
+console.log("This programs does ma")
