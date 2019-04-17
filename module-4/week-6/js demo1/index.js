@@ -1,8 +1,8 @@
-//Control Flow:
-var myNumber=6;
-if (myNumber>5);{
-    console.log('my number');
-}
+// //Control Flow:
+// var myNumber=6;
+// if (myNumber>5);{
+//     console.log('my number');
+// }
 console.log (Math.pow(4,4));
 const input='7 5 5 + *';
 const separatedInput=input.split(' ');
